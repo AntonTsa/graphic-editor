@@ -7,7 +7,7 @@ I create a graphic editor with following class hierarchy:
 3. **Square** - derived class from Shape.
 4. **Rectangle** - derived class from Shape.
 5. **Triangle** - derived class from Shape.
-6. **Polygon** - derived class from Shape.
+6. **Octagon** - derived class from Shape.
 7. **Quad** - derived class from Shape.
 8. **ShapePrinter** - class that takes a Shape object and prints its name.
 
