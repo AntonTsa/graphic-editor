@@ -1,4 +1,4 @@
-package org.example.shapes;
+package org.example.graphic.editor.shapes;
 
 /**
  * This class represents a rectangle shape.

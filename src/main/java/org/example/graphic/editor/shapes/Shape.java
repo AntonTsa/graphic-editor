@@ -1,4 +1,4 @@
-package org.example.shapes;
+package org.example.graphic.editor.shapes;
 
 /**
  * This is a basic class representing a geometric shape.

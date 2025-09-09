@@ -1,6 +1,6 @@
-package org.example.util;
+package org.example.graphic.editor.util;
 
-import org.example.shapes.Shape;
+import org.example.graphic.editor.shapes.Shape;
 
 /**
  * This class provides a method to print the name of a shape.
