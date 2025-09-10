@@ -1,1 +1,3 @@
 rootProject.name = 'GraphicEditor'
+//rootProject.projectDir = file("..")
+includeBuild("..")
